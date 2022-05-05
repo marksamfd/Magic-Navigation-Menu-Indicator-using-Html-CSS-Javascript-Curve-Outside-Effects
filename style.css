@@ -91,7 +91,7 @@ body{
     height: 70px;
     background: #29fd53;
     border-radius: 50%;
-    border: 6px solid var(--clr);
+    border: 6px solid transparent;
     transition: 0.5s;
 }
 
